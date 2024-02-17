@@ -106,3 +106,14 @@ import java.util.Random;
 
 - Java is object-oriented, which means that Java programs are made up of classes and objects.
 
+- Encapsulation is the mechanism that binds together code and the data it manipulates, and keeps both safe from outside interference and misuse.
+
+- Inheritance is the mechanism that allows one class to inherit the properties of another class.
+
+- Polymorphism is the mechanism that allows one interface to be used for a general class of actions.
+
+- Abstraction is the mechanism that allows you to define the interface for a class, hiding the implementation details.
+
+- The is no multiple inheritance in Java, a class can only extend one class.
+
+
