@@ -2,7 +2,7 @@ This repo represents my preparation for the exam OCA(Oracle Certified Associate)
 
 # Table of Contents
 - [Java Basics](java_basics.md)
-- [Working With Java Data Types](#working-with-java-data-types)
+- [Working With Java Data Types](working-with-java-data-types.md)
 - [Using Operators and Decision Constructs](#using-operators-and-decision-constructs)
 - [Creating and Using Arrays](#creating-and-using-arrays)
 - [Using Loop Constructs](#using-loop-constructs)

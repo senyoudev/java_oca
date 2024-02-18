@@ -1,10 +1,10 @@
-## 1- Java Basics
+# Java Basics
 
-### 1.1- Java Basics
+### Java Basics
 - Java is a high-level programming language that is platform-independent and object-oriented.
 - Java is a strongly typed language, which means that all variables must first be declared before they can be used.
 
-### 1.2- The Java Technology and Development Environment
+### The Java Technology and Development Environment
 - The Java Development Kit (JDK) is a software development environment used for developing Java applications and applets.
 - The Java Runtime Environment (JRE) is a part of the JDK that contains the JVM, which is used to run Java applications and applets.
 - The Java Virtual Machine (JVM) is a part of the JRE that executes Java bytecode.
